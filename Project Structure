@@ -1,0 +1,18 @@
+SwiggyTestingProject/
+│
+├── TestCases/
+│   └── Swiggy_Test_Cases.xlsx           # All your test cases
+│
+├── BugReports/
+│   └── Sample_Bug_Report.docx           # 2–3 sample bugs (Word format)
+│
+├── Documentation/
+│   ├── Test_Plan.docx                   # Manual Testing Plan
+│   ├── Test_Summary_Report.docx         # Summary after testing
+│   └── README.md                        # Project overview
+│
+├── Screenshots/                         # Screenshots of bugs (optional)
+│   └── Bug1_Screenshot.png
+│
+└── Tools_Demo/
+    └── Jira_Sample_Bug_Logged.pdf       # Dummy Jira bug ticket (exported)

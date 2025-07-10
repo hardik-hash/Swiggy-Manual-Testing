@@ -68,7 +68,7 @@ SwiggyTestingProject/
 
 ## 👨‍💻 Author
 
-**Hardik Pandit**  
+**Hardik Sharma**  
 Final Year BTech | QA & Manual Testing Enthusiast  
 📧 [LinkedIn](https://www.linkedin.com/in/yourprofile) | 💻 [Portfolio/GitHub](https://github.com/yourusername)
 
